@@ -2,7 +2,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test": "cat /etc/shadow"
+        "test": "cat /etc/hosts"
       }
     }
   }
